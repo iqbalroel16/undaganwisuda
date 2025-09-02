@@ -1,12 +1,17 @@
 {
   "name": "undanganwisuda",
   "version": "1.0.0",
-  "description": "Static invitation site - run with npm start (Replit friendly)",
-  "main": "server.js",
+  "description": "Undangan Wisuda Muhammad Iqbal, S.Pd",
+  "main": "index.html",
   "scripts": {
-    "start": "node server.js"
+    "start": "echo 'No build needed for static site'"
   },
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "keywords": [
+    "undangan",
+    "wisuda",
+    "static",
+    "html"
+  ],
+  "author": "iqbalroel16",
+  "license": "MIT"
 }
