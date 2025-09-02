@@ -1,0 +1,12 @@
+{
+  "name": "undanganwisuda",
+  "version": "1.0.0",
+  "description": "Static invitation site - run with npm start (Replit friendly)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
